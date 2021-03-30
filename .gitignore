@@ -1,0 +1,4 @@
+# project.clj's :target-path
+target/**
+
+.lein-failures
